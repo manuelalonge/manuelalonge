@@ -38,4 +38,4 @@ I am a very dynamic person and I've got a lot of interests. Together with the sa
 
 ## Contact me :email:
 
-<a href="https://www.linkedin.com/in/manuelalonge/" target="_blank"><img src="https://raw.githubusercontent.com/soroushchehresa/github-readme-linkedin/master/linkedin-github.png" width="75" /><a>
+<a href="https://www.linkedin.com/in/manuelalonge/" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="75" /><a>
