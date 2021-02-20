@@ -34,7 +34,7 @@ After starting my adventure in TomorrowDevs, I've been working with challenging 
 
 ## Beyond web development :muscle:
 
-I am a very dynamic person and I've got a lot of interests. Together with the same friend with whom I created IFDA's web page, I founded [Smart And Working](https://smartandworking.com/), an online shop that sells products that can improve your way to work from home. We consider ourselves the smart support for tomorrow's smart working. The website is currently just in italian, however, the shop is opened to everyone :smiley: Visit our shop and find the product that suits your needs the most
+I am a very dynamic person and I have many interests. Together with the same friend with whom I created IFDA's web page, I founded [Smart And Working](https://smartandworking.com/), an online shop that sells products that can improve your way to work from home. We consider ourselves the smart support for tomorrow's smart working. The website is currently just in italian, however, the shop is opened to everyone :smiley: Visit our shop and find the product that suits your needs the most
 
 ## Contact me :email:
 
