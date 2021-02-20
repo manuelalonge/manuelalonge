@@ -30,7 +30,7 @@ I am working on a [collaborative project](https://github.com/manuelalonge/team-f
 
 ## Other recent projects :computer:
 
-After starting my adventure in TomorrowDevs, I've been working with challenging projects. Along with the team web app, I created an [hotel landing page](https://github.com/manuelalonge/hotel-landing-page) and I am currently working on a [sports app landing page](https://github.com/manuelalonge/sports-responsive-landing-page).
+After starting my adventure in TomorrowDevs, I've been working on challenging projects. Along with the team web app, I created an [hotel landing page](https://github.com/manuelalonge/hotel-landing-page) and I am currently working on a [sports app landing page](https://github.com/manuelalonge/sports-responsive-landing-page).
 
 ## Beyond web development :muscle:
 
