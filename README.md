@@ -1,7 +1,7 @@
 
 # Welcome, my name is Manuel! :wave:
 
-# I am an aspiring freelance web developer, mainly focused on the use of front-end technologies like HTML, CSS, SCSS, Javascript, React.
+# I am an aspiring freelance web developer. My knowledge is focused on the use of front-end technologies like HTML, CSS, SCSS, Javascript, React.
 
 ## About me
 
@@ -22,7 +22,7 @@ I am working on a [collaborative project](https://github.com/manuelalonge/team-f
 * Working with SASS
 * Using Webpack
 
-## Most important projects :computer:
+## Which are my most important projects so far? :computer:
 
 * My very first project has been [Trattoria Mangiamo's website](https://bartrattoriamangiamo.000webhostapp.com/), basically a landing page for a restaurant located in my parents' town.
 * One of the projects I am most proud of is [IFDA](https://ifdaorientamento.it/)'s landing page. I worked on this together with a [colleague](http://www.coderune.com/) and friend during the first COVID lockdown. IFDA is an Italian fashion schools located in Milan.
@@ -34,7 +34,9 @@ After starting my adventure in TomorrowDevs, I've been working on challenging pr
 
 ## Beyond web development :muscle:
 
-I am a very dynamic person and I have many interests. Together with the same friend with whom I created IFDA's web page, I founded [Smart And Working](https://smartandworking.com/), an online shop that sells products that can improve your way to work from home. We consider ourselves the smart support for tomorrow's smart working. The website is currently just in italian, however, the shop is opened to everyone :smiley: Visit our shop and find the product that suits your needs the most
+I am a very dynamic person and I have many interests. Together with the same friend with whom I created IFDA's web page, I founded [Smart And Working](https://smartandworking.com/), an online shop that sells products that can improve your way to work from home. 
+
+We consider ourselves the smart support for tomorrow's smart working. The website is currently just in italian, however, the shop is opened to everyone :smiley: Visit our shop and find the product that suits your needs the most
 
 ## Contact me :email:
 
