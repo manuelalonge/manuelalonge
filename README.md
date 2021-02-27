@@ -38,6 +38,8 @@ I am a very dynamic person and I have many interests. Together with the same fri
 
 We consider ourselves the smart support for tomorrow's smart working. The website is currently just in italian, however, the shop is opened to everyone :smiley: Visit our shop and find the product that suits your needs the most
 
+Another project I am currently working on is [MindfulStack](https://mindfulstack.medium.com/). MindfulStack's aim is to become a hub for people who want to learn personal growth skills. The project is currently in a testing phase, so you'll be amazed to see how it evolves.
+
 ## Contact me :email:
 
 <a href="https://www.linkedin.com/in/manuelalonge/" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="75" /><a>
