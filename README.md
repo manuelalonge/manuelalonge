@@ -11,7 +11,12 @@ I started programming a couple of years ago, learning the basics of HTML and CSS
 
 In TomorrowDevs I experienced how awesome being a Team Leader is :blush:
 
-I am working on a [collaborative project](https://github.com/manuelalonge/team-four-webapp-frontend) which aim is to create a responsive web app that can recognize the subject in the images you load in it. The project is still in progress.
+I worked on a collaborative project which aim is to create a responsive web app that can recognize the subject in the images you load in it. The project is still in progress. The project involved both frontend and backend technologies.
+
+* [Frontend repository](https://github.com/manuelalonge/team-four-webapp-frontend)
+* [Backend repository](https://github.com/manuelalonge/team-four-webapp-backend)
+
+In order to become more efficient, my old team joined another one, we're now working on another collaborative project which aim is to put together the two old projects.
 
 ### What did I learn as a Team Leader?
 
